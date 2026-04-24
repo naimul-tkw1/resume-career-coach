@@ -45,7 +45,7 @@ Just provide your resume (upload, paste, or link) and a job posting (paste or UR
 ## 📦 Installation
 
 1. Download `resume-career-coach.skill` from the [Releases](../../releases) page
-2. Go to **Claude.ai → Settings → Skills**
+2. Go to **Claude.ai → Settings → Skills** ( Alternatively desktop, **File → Settings → Capabilities → Go to Customize Skills → Create Skill → Upload Skill**)
 3. Click **Install Skill** and select the `.skill` file
 4. Start a new conversation and say *"Check my resume"* or *"I'm applying for a job"*
 
